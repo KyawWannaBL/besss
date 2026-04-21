@@ -3,3 +3,6 @@
 /NUL
 *.apk
 *.jks
+
+.env
+.env.local
